@@ -1,5 +1,5 @@
 # Parametrized Pytest with Selenium 
-# Author- Ozih Uddin Al Fuzayel
+# Author- Ozih Uddin Al Fuzayel 
 
 
 import pytest
